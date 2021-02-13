@@ -1,6 +1,6 @@
 using System;
 
-namespace DesafioFull_Front
+namespace DesafioFull
 {
     public class WeatherForecast
     {
